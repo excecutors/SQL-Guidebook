@@ -198,8 +198,10 @@ GROUP BY d.dept_name;
 
 | Query                              | Sample Output           |
 | ---------------------------------- | ----------------------- |
-| Q2: Count employees per department | ![count\_output.png](#) |
-| Q6: Rank by salary                 | ![rank\_output.png](#)  |
+| Q2: Count employees per department | <img width="710" height="128" alt="image" src="https://github.com/user-attachments/assets/fbf98f4a-4f87-460c-ac10-9da66fea8fa7" />
+ |
+| Q6: Rank by salary                 | <img width="1175" height="185" alt="image" src="https://github.com/user-attachments/assets/c2260ade-b4ee-4d30-8833-f21d862ea9d8" />
+  |
 
 ---
 
