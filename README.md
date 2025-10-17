@@ -6,7 +6,7 @@
 
 ## 🎯 Objective
 
-This README serves as a **personal SQL reference guidebook** — a concise, exam-style cheatsheet that documents key SQL syntax, examples, and real queries you’ve written. It demonstrates mastery of SQL fundamentals and advanced topics while serving as a reusable guide for future interviews or projects.
+This README serves as a personal SQL reference guidebook, a concise and practical collection of essential SQL syntax, examples, and real queries. It demonstrates a clear understanding of SQL fundamentals and advanced concepts, designed as a reusable guide for anyone exploring data analysis, database management, or general SQL problem-solving.
 
 ---
 
@@ -41,15 +41,13 @@ VALUES
 (105, 'Evan', 'Lee', 2, 99000, '2021-09-30');
 ```
 
-### 💡 Tip
+### Tip
 
 Use small, realistic datasets (5–10 rows per table) so you can easily test JOINs and window functions.
 
 ---
 
-## 🔍 2. Questions & Queries
-
-Each question mimics a common SQL interview or analytics task.
+## 2. Questions & Queries
 
 ### Q1. Retrieve all employees sorted by salary
 
@@ -183,7 +181,7 @@ GROUP BY d.dept_name;
 
 ---
 
-## ⚙️ 3. Advanced SQL Features Explored Independently
+## 3. Advanced SQL Features Explored Independently
 
 | Feature                | Description                        | Example                                                                                    |
 | ---------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -194,7 +192,7 @@ GROUP BY d.dept_name;
 
 ---
 
-## 🧩 4. Output Samples
+## 4. Output Samples
 
 > *(Include screenshots or sample results here for submission)*
 
@@ -205,7 +203,7 @@ GROUP BY d.dept_name;
 
 ---
 
-## 🗂️ 5. Guidebook Summary
+## 5. Guidebook Summary
 
 * **Basic Queries:** SELECT, WHERE, ORDER BY
 * **Aggregations:** COUNT, AVG, SUM, GROUP BY, HAVING
@@ -217,7 +215,7 @@ GROUP BY d.dept_name;
 
 ---
 
-## ✅ Submission Checklist
+## Submission Checklist
 
 * [x] Multiple tables created and populated
 * [x] 10 queries demonstrating SQL mastery
@@ -226,7 +224,3 @@ GROUP BY d.dept_name;
 * [x] Explanations added under each query
 
 ---
-
-### 💬 Notes
-
-This README can be directly submitted as your **SQL Guidebook** for grading. It is self-contained, demonstrates understanding of all major SQL components, and doubles as an interview reference or quick revision sheet.
