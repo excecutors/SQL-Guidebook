@@ -10,9 +10,9 @@ This README serves as a personal SQL reference guidebook, a concise and practica
 
 ---
 
-## 🧱 1. Table Creation & Data Setup
+## 1. Table Creation & Data Setup
 
-### Example Schema (PostgreSQL / SQLite)
+### Schema + Seed (SQLite)
 
 ```sql
 CREATE TABLE employees (
@@ -40,10 +40,6 @@ VALUES
 (104, 'Diana', 'Chen', 3, 76000, '2022-07-14'),
 (105, 'Evan', 'Lee', 2, 99000, '2021-09-30');
 ```
-
-### Tip
-
-Use small, realistic datasets (5–10 rows per table) so you can easily test JOINs and window functions.
 
 ---
 
