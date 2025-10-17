@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 This README serves as a personal SQL reference guidebook, a concise and practical collection of essential SQL syntax, examples, and real queries. It demonstrates a clear understanding of SQL fundamentals and advanced concepts, designed as a reusable guide for anyone exploring data analysis, database management, or general SQL problem-solving.
 
